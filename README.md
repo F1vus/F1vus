@@ -1,4 +1,4 @@
-# 💻 I'm Fiv_, first year computer since student
+# 💻 I'm Fiv_, student of computer since
  
 ## 🔧 My technologies & Tools
 
