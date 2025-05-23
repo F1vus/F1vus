@@ -9,6 +9,6 @@
 
 ### Frameworks and libraries:
 
-|<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50"/>| <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" width="50" height="50"/> | <img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" width="50" height="50"/> |    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>     |
-|:--:|:--:|:--------------------------------------------------------------------------------:|:-------:|
-| Django | Spring-boot |                             Minecraft fabric                   | React |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50"/>| <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" width="50" height="50"/> | <img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" width="50" height="50"/> |    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>     | <img src="https://avatars.githubusercontent.com/u/6250754?s=48&v=4 " width="50" height="50"/>|
+|:--:|:--:|:--------------------------------------------------------------------------------:|:-------:|:-------:|
+| Django | Spring-boot |                             Minecraft fabric                   | React | web3.py |
