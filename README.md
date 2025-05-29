@@ -16,7 +16,7 @@
 
 ### Tools
 
-| PostgreSQL | SQLite3 | Docker |
-|:--:|:--:|:--------------------------------------------------------------------------------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/> |
+| PostgreSQL | SQLite3 | Docker | RabbitMQ|
+|:--:|:--:|:--:|:--:|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50"/>|
 
